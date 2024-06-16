@@ -1,6 +1,13 @@
-## Hi there, I'm David👋
-<img src="https://photos.app.goo.gl/optJNJrRBdCcxWju5">
-![Header](https://photos.app.goo.gl/optJNJrRBdCcxWju5)
+<div align="center">
+<h1 align="center">Hello, I'm David 👋</h1>
+</div>
+<img src="https://i.imgur.com/V3FiQz6.png">
+
+## About Me
+- 🇲🇽 Guadalajara Jal
+- 🧑🏻‍💻 Software Enginner
+- 🤖 Android Developer
+- 📲 Working on KMP things
 <!--
 **DavidGlezQ/DavidGlezQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
