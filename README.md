@@ -18,6 +18,9 @@
 ![Static Badge](https://img.shields.io/badge/Jetpack%20Compose-white?style=for-the-badge&logo=Jetpack%20Compose&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Jetpack-grey?style=for-the-badge&logo=Jetpack%20Compose&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&labelColor=grey)
+![Static Badge](https://img.shields.io/badge/Material%20Design-purple?style=for-the-badge&logo=material%20design&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&labelColor=white)
+![Static Badge](https://img.shields.io/badge/SDK-blue?style=for-the-badge&logo=SDK&labelColor=white)
 
 
 
