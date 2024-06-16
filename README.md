@@ -3,14 +3,22 @@
 </div>
 <img src="https://i.imgur.com/V3FiQz6.png">
 
+## 
+![GitHub followers](https://img.shields.io/github/followers/DavidGlezQ?style=for-the-badge&logo=GitHub&label=Followers&color=green)
+
 ## About Me
 - 🇲🇽 Guadalajara Jal
 - 🧑🏻‍💻 Software Enginner
 - 🤖 Android Developer
 - 📲 Working on KMP things
+- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-alejandro-gonzález-quezada-bb2563219/)
 
 ## My Tech Stack
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Static Badge](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Jetpack%20Compose-white?style=for-the-badge&logo=Jetpack%20Compose&labelColor=grey)
+![Static Badge](https://img.shields.io/badge/Jetpack-grey?style=for-the-badge&logo=Jetpack%20Compose&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&labelColor=grey)
+
 
 
 ## My Personal Projects
