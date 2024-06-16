@@ -1,6 +1,6 @@
 ## Hi there, I'm David👋
 
-![Header](./github-header-image-2.png)
+![Header](https://photos.app.goo.gl/optJNJrRBdCcxWju5)
 <!--
 **DavidGlezQ/DavidGlezQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
